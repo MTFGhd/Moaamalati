@@ -77,8 +77,8 @@ export const Home: React.FC = () => {
             </div>
             
             <h1 className="text-5xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-              Smart
-              <span className="text-emerald-600"> Budget</span>
+              Mo
+              <span className="text-emerald-600">Amalaati</span>
             </h1>
             
             <p className="text-xl lg:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
