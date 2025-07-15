@@ -184,7 +184,7 @@ export const Home: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">
-                Why Choose Smart Budget?
+                Why Choose MoAmalaati?
               </h2>
               <p className="text-xl text-gray-600 mb-8">
                 Join thousands of users who have transformed their financial lives 
@@ -283,7 +283,7 @@ export const Home: React.FC = () => {
                 <div className="p-2 bg-emerald-600 rounded-lg">
                   <PiggyBank className="w-6 h-6 text-white" />
                 </div>
-                <span className="text-xl font-bold">Smart Budget</span>
+                <span className="text-xl font-bold">MoAmalaati</span>
               </div>
               <p className="text-gray-400 mb-4">
                 Empowering individuals to achieve financial freedom through smart budgeting and expense tracking.
@@ -312,7 +312,7 @@ export const Home: React.FC = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 Smart Budget. All rights reserved.</p>
+            <p>&copy; 2025 MoAmalaati. All rights reserved.</p>
           </div>
         </div>
       </footer>
